@@ -21,7 +21,7 @@
 
 ### Follow me on <a href="https://www.linkedin.com/in/jacob-giamanco/">LinkedIn</a> to stay updated.
   
-#### 🔭 **I’m currently working on:** a Next.js and Nest.js Authentication app
+#### 🔭 **I’m currently working on:** revamping my portfolio and an interactive React project library
 #### 🌱 **I’m currently learning:** Nest.js, Machine Learning, React Native, and more
 #### 👯 **I’m looking to collaborate on:** an app that helps Software Engineers learn DSA for TypeScript and Pyhton
 #### 🤔 **I’m looking for help with:** landing my next big role
