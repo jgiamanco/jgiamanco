@@ -9,6 +9,7 @@
  <tr>
     <td>
       <ul>
+        <li><a href = "https://jacobgiamanco.vercel.app">My Portfolio</a></li>
         <li><a href = "https://github.com/jgiamanco/discord_bot">Discord.py Bot</a></li>
         <li><a href = "https://github.com/jgiamanco/weather-2.0">TypeScript Weather App</a></li>
         <li><a href = "https://github.com/jgiamanco/nfl-rosters">React (TSX) Interactive API</a></li>
@@ -21,7 +22,7 @@
 
 ### Follow me on <a href="https://www.linkedin.com/in/jacob-giamanco/">LinkedIn</a> to stay updated.
   
-#### 🔭 **I’m currently working on:** revamping my portfolio and an interactive React project library
+#### 🔭 **I’m currently working on:** an interactive React project library
 #### 🌱 **I’m currently learning:** Nest.js, Machine Learning, React Native, and more
 #### 👯 **I’m looking to collaborate on:** an app that helps Software Engineers learn DSA for TypeScript and Pyhton
 #### 🤔 **I’m looking for help with:** landing my next big role
