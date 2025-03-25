@@ -1,5 +1,5 @@
 # Hi there 👋, Welcome to my Github page!</h2>
-### I'm <a href = "https://jgiamanco.verccel.app">Jacob</a>, a Software Engineer having 5+ years of experience working in various domains like full stack web development, software engineering, and technical project management.
+### I'm <a href = "https://jacobgiamanco.verccel.app">Jacob</a>, a Software Engineer having 5+ years of experience working in various domains like full stack web development, software engineering, and technical project management.
 
 <table border="0">
  <tr>
